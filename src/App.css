@@ -1,0 +1,15 @@
+.header-nav {
+  background: linear-gradient(to bottom, #fd79a8, darkviolet); 
+  display: flex;
+}
+
+.footer {
+  height: 200px;
+  width: 100%;
+  background: linear-gradient(to bottom, #fd79a8, darkviolet); 
+}
+
+.logo-nav {
+  width: 200px;
+  margin: 30px;
+}
